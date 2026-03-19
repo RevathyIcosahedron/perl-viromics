@@ -1,2 +1,2 @@
-# perl-viromics
+# pearl-viromics
 PEARL data analysis scripts.
